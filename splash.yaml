@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#272727"
+  image: assets/BharatNXT-Logo-2048x1049.jpg
+  image_dark: assets/BharatNXT-Logo-2048x1049.jpg
+
+  android_12:
+    color: "#ffffff"
+    color_dark: "#272727"
+    image: assets/BharatNXT-Logo-2048x1049.jpg
+    image_dark: assets/BharatNXT-Logo-2048x1049.jpg
+
+  web: false
+  android: true
+  ios: true
