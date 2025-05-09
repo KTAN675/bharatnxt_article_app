@@ -14,7 +14,7 @@ API.
 
 1. Clone the repo:
    git clone <https://github.com/KTAN675/bharatnxt_article_app>
-   cd flutter_article_app
+   cd bharatnxt_article_app
 2. Install dependencies:
    flutter pub get
 3. Run the app:
