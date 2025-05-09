@@ -22,8 +22,8 @@ API.
 
 ## Tech Stack
 
-- Flutter SDK: [Version]
-- State Management: [Provider.]
+- Flutter SDK: [3.39.3]
+- State Management: [Provider]
 - HTTP Client: [http]
 - Persistence: [shared_preferences]
 
